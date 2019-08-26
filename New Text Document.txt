@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>welcome</title>
+<meta name="description" content="online" />
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+<div id="header"></div>
+
+<div id="wrapper">
+wrapper
+<div id="main">main </div>
+<div id="footer"> footer</div>
+
+</div>
+
+
+</body>
+
+<html>
